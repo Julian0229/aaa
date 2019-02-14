@@ -1,0 +1,40 @@
+2019-01-31 15:20:07,916-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(55) - Cannot connect to database server
+2019-01-31 15:20:07,922-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType3
+2019-01-31 16:11:50,088-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(55) - Cannot connect to database server
+2019-01-31 16:11:50,090-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType3
+2019-01-31 16:12:35,094-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(55) - Cannot connect to database server
+2019-01-31 16:12:35,097-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType3
+2019-01-31 16:13:13,201-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(55) - Cannot connect to database server
+2019-01-31 16:13:13,203-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType2
+2019-01-31 16:13:18,936-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(36) - runDriver is ie......
+2019-01-31 16:13:19,092-[SeleniumAutoFile] INFO [main] com.cases.KfglTest_New.kfgl_0001_LoginSucc(19) - kfgl_0001_LoginSucc is running !
+2019-01-31 16:13:34,568-[SeleniumAutoFile] INFO [Forwarding quit on session 52161c34-c03d-4fe9-96b1-9eae1c157b3a to remote] org.apache.http.impl.execchain.RetryExec.execute(96) - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:11781: Connection reset
+2019-01-31 16:13:34,568-[SeleniumAutoFile] INFO [Forwarding quit on session 52161c34-c03d-4fe9-96b1-9eae1c157b3a to remote] org.apache.http.impl.execchain.RetryExec.execute(112) - Retrying request to {}->http://localhost:11781
+2019-01-31 16:14:34,315-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(55) - Cannot connect to database server
+2019-01-31 16:14:34,317-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType3
+2019-01-31 16:26:55,335-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(86) - Start to run test class com.cases.KfglTest_New on driverType3
+2019-01-31 16:27:32,356-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(86) - Start to run test class com.cases.KfglTest_New on driverType3
+2019-01-31 16:33:32,089-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(86) - Start to run test class com.cases.KfglTest_New on driverType3
+2019-01-31 16:33:35,584-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - runDriver is chrome......
+2019-01-31 16:33:36,722-[SeleniumAutoFile] INFO [main] com.cases.KfglTest_New.kfgl_0001_LoginSucc(19) - kfgl_0001_LoginSucc is running !
+2019-01-31 17:30:43,757-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(86) - Start to run test class com.cases.TestSAPLogin on driverType3
+2019-01-31 17:30:47,345-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - runDriver is chrome......
+2019-01-31 17:30:48,482-[SeleniumAutoFile] INFO [main] com.cases.TestSAPLogin.TestLogin(16) - TestLogin is running !
+2019-01-31 17:38:05,692-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(86) - Start to run test class com.cases.TestSAPLogin on driverType3
+2019-01-31 17:38:09,242-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - runDriver is chrome......
+2019-01-31 17:38:10,410-[SeleniumAutoFile] INFO [main] com.cases.TestSAPLogin.TestLogin(16) - TestLogin is running !
+2019-01-31 17:43:01,344-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(86) - Start to run test class com.cases.TestSAPLogin on driverType3
+2019-01-31 17:43:05,042-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - runDriver is chrome......
+2019-01-31 17:43:06,181-[SeleniumAutoFile] INFO [main] com.cases.TestSAPLogin.TestLogin(16) - TestLogin is running !
+2019-01-31 17:45:02,630-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(86) - Start to run test class com.cases.TestSAPLogin on driverType3
+2019-01-31 17:45:06,646-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - runDriver is chrome......
+2019-01-31 17:45:07,782-[SeleniumAutoFile] INFO [main] com.cases.TestSAPLogin.TestLogin(16) - TestLogin is running !
+2019-01-31 17:53:31,072-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(86) - Start to run test class com.cases.TestSAPLogin on driverType3
+2019-01-31 17:53:35,202-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - runDriver is chrome......
+2019-01-31 17:53:36,338-[SeleniumAutoFile] INFO [main] com.cases.TestSAPLogin.TestLogin(16) - TestLogin is running !
+2019-01-31 18:03:20,291-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(86) - Start to run test class com.cases.TestSAPLogin on driverType3
+2019-01-31 18:03:24,241-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - runDriver is chrome......
+2019-01-31 18:03:25,381-[SeleniumAutoFile] INFO [main] com.cases.TestSAPLogin.TestLogin(16) - TestLogin is running !
+2019-01-31 18:05:32,362-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(86) - Start to run test class com.cases.TestSAPLogin on driverType3
+2019-01-31 18:05:36,369-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - runDriver is chrome......
+2019-01-31 18:05:37,653-[SeleniumAutoFile] INFO [main] com.cases.TestSAPLogin.TestLogin(17) - TestLogin is running !

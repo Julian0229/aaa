@@ -1,0 +1,10 @@
+2019-01-30 17:27:44,215-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(55) - Cannot connect to database server
+2019-01-30 17:27:44,221-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType2
+2019-01-30 17:30:15,494-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(55) - Cannot connect to database server
+2019-01-30 17:30:15,496-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType2
+2019-01-30 17:32:45,971-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(55) - Cannot connect to database server
+2019-01-30 17:32:45,974-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType2
+2019-01-30 18:31:36,992-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(55) - Cannot connect to database server
+2019-01-30 18:31:36,994-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType3
+2019-01-30 18:36:54,174-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(55) - Cannot connect to database server
+2019-01-30 18:36:54,177-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType3

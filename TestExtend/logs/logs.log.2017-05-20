@@ -1,0 +1,15 @@
+2017-05-20 15:40:04,033-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(52) - Database connection established
+2017-05-20 15:40:04,042-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType2
+2017-05-20 15:40:06,005-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(33) - runDriver is ie......
+2017-05-20 15:40:06,291-[SeleniumAutoFile] INFO [main] com.cases.KfglTest_New.kfgl_0001_LoginSucc(19) - kfgl_0001_LoginSucc is running !
+2017-05-20 15:40:15,112-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(69) - Database connection terminated
+2017-05-20 15:41:07,779-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(52) - Database connection established
+2017-05-20 15:41:07,779-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType2
+2017-05-20 15:41:09,530-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(33) - runDriver is ie......
+2017-05-20 15:41:09,841-[SeleniumAutoFile] INFO [main] com.cases.KfglTest_New.kfgl_0001_LoginSucc(19) - kfgl_0001_LoginSucc is running !
+2017-05-20 15:41:26,074-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(69) - Database connection terminated
+2017-05-20 15:41:29,676-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(52) - Database connection established
+2017-05-20 15:41:29,676-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(83) - Start to run test class com.cases.KfglTest_New on driverType2
+2017-05-20 15:41:31,811-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(33) - runDriver is ie......
+2017-05-20 15:41:32,118-[SeleniumAutoFile] INFO [main] com.cases.KfglTest_New.kfgl_0001_LoginSucc(19) - kfgl_0001_LoginSucc is running !
+2017-05-20 15:41:46,610-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(69) - Database connection terminated
